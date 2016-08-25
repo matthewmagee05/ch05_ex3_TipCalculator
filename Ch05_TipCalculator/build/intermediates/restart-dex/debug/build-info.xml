@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="80179925269995"
+    token="-6870759014162023029" >
+
+    <task
+        name="javac"
+        duration="212" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/Users/matthewmagee/Downloads/android/ex_solutions/ch05_ex3_TipCalculator/Ch05_TipCalculator/build/outputs/apk/Ch05_TipCalculator-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="80179925269995" >
+        <artifact
+            location="/Users/matthewmagee/Downloads/android/ex_solutions/ch05_ex3_TipCalculator/Ch05_TipCalculator/build/outputs/apk/Ch05_TipCalculator-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
